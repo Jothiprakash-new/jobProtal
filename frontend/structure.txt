@@ -1,0 +1,18 @@
+src/
+  App.jsx
+  routes/
+    PublicRoutes.jsx
+    EmployerRoutes.jsx
+    SeekerRoutes.jsx
+  pages/
+    JobsList.jsx
+    JobDetail.jsx
+    ProfileEditor.jsx
+    CompanyDashboard.jsx
+  components/
+    JobCard.jsx
+    SearchFilters.jsx
+    FileUpload.jsx
+    Notifications.jsx
+  services/
+    api.js  # axios wrapper with JWT interceptor
